@@ -1,7 +1,11 @@
+@font-face {
+   font-family: shrek;
+   src: url(Shrek.ttf);
+}
 body {
   background: gray;
   color: black;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: shrek;
   margin: 0;
   padding: 0;
   text-decoration: none;
