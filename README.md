@@ -1,1 +1,0 @@
-https://horzsocd.github.io
